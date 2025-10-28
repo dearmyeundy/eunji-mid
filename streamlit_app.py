@@ -85,7 +85,6 @@ def render_choice_block(key, label, color_code, score_effect, next_page):
 # === 1. 시작 페이지 ===
 def start_page():
     st.title("👨‍🏫 교사 연수 자료: 퍼스널 컬러 진단 인터렉티브 학습자료")
-")
     st.markdown("### 본 웹페이지는 교사의 자기 진단 및 수업 자료 개발 역량 강화를 위한 연수 도구입니다.")
     st.markdown("---")
     
